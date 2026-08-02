@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+sentence-transformers
+chromadb
+transformers
+torch
+torchvision
